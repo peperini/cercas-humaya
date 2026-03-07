@@ -2,7 +2,7 @@
 
 This repo contains the source code for the Cercas Humaya Website, a creative and interactive website I designed and deveoped for Cercas Humaya, a Mexican company focused on the safety of its clients, offering them galvanized cyclonic mesh installation services for their homes, land or any place where it is required. They also provide architectural project services, blacksmithing and home maintenance.
 
-[See Demo](https://cercashumaya.com)
+[See Live](https://cercashumaya.com)
 
 ## Installation
 
@@ -60,10 +60,14 @@ npm start
 
 ## License
 
+## Author
+
+José Félix, Creative Technologist & Design Engineer
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Contact
 
 If you have any questions or comments regarding this project, feel free to reach out to me:
 
-- Email: josearmando@gothier.co
+- Email: hey@josefelix.co
